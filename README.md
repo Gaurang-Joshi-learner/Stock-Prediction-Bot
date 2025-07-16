@@ -1,1 +1,2 @@
 # Stock-Prediction-Bot
+Created a stock prediction bot using Python libraries such as ta(Technical Analysis),sklearn,pandas,numpy.For the backend we used Express.js.For the frontend i used the streamlit library of python along with HTML,CSS,Javascript.The bot analyses the stock inputed by the user on basis of four major indicators namely:RSI,MAXD,EMA and Bollinger Bands on a timeframe provided by the user.
