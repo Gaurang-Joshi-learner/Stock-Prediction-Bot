@@ -3,7 +3,7 @@ import subprocess
 
 st.set_page_config(page_title="📈 Trading Bot", page_icon="💹", layout="centered")
 
-# Custom CSS: nice background & card styling
+
 st.markdown("""
 <style>
 body {
@@ -86,7 +86,7 @@ if submitted:
             with st.expander("Show error details"):
                 st.text(result.stderr)
 
-# Optional: Footer
+
 st.markdown("""
 <hr>
 <div style='text-align:center; font-size: small'>
