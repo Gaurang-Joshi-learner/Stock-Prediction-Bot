@@ -50,7 +50,7 @@ Prediction Response
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/trading-bot.git
+git clone https://github.com/Gaurang-Joshi-learner/trading-bot.git
 cd trading-bot
 ```
 
