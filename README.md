@@ -36,7 +36,7 @@ It integrates:
 
 ## 🧩 Architecture
 
-Frontend (React)
+Frontend (Streamlit)
 ⬇
 Backend (Express API)
 ⬇
