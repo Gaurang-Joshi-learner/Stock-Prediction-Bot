@@ -1,29 +1,29 @@
-# 🚀 AI Trading Bot with Machine Learning
+#  AI Trading Bot with Machine Learning
 
 
- 📌 Overview
+  Overview
 
 This project is a full-stack **AI-powered trading bot** that predicts stock price movements using machine learning models and displays insights through an interactive dashboard.
 
 It integrates:
 
-* 📊 Technical indicators
-* 🤖 ML-based predictions
-* ⚡ Real-time API data
-* 🌐 Full-stack architecture
+*  Technical indicators(RSI,MACD,Bollinger Bands,SMA,EMA)
+*  ML-based predictions
+*  Real-time API data
+*  Full-stack architecture
 
-## ✨ Features
+##  Features
 
-* 📈 Stock price prediction using ML (XGBoost / your model)
-* ⚡ Real-time market data integration
-* 📊 Interactive charts and visualization
-* 🧠 Technical indicators (RSI, MACD, Moving Averages)
-* 🔁 Historical data analysis
-* 🌐 Full-stack architecture (Frontend + Backend + ML)
+*  Stock price prediction using ML (XGBoost / your model)
+*  Real-time market data integration
+*  Interactive charts and visualization
+*  Technical indicators (RSI, MACD, Moving Averages)
+*  Historical data analysis
+*  Full-stack architecture (Frontend + Backend + ML)
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Category | Technology                             |
 | -------- | -------------------------------------- |
@@ -34,7 +34,7 @@ It integrates:
 
 
 
-## 🧩 Architecture
+##  Architecture
 
 Frontend (Streamlit)
 ⬇
@@ -45,7 +45,7 @@ Python ML Model
 Prediction Response
 
 
-## ⚙️ Installation
+##  Installation
 
 ### 1️⃣ Clone Repository
 
@@ -77,27 +77,27 @@ cd ml-model
 pip install -r requirements.txt
 python model.py
 
-## 📌 Usage
+##  Usage
 
 1. Enter stock ticker (e.g., AAPL, TSLA)
 2. Select timeframe
 3. View prediction results
 4. Analyze charts & indicators
 
-## 📊 Results
+##  Results
 
-* ✅ Model Accuracy: 86%
-* 📉 Evaluated on historical stock data
-* 📈 Improved prediction using technical indicators
+*  Model Accuracy: 86%
+*  Evaluated on historical stock data
+*  Improved prediction using technical indicators
 
-## 🚀 Future Improvements
+##  Future Improvements
 
-* 🔮 LSTM / Deep Learning model integration
-* 📡 Live trading execution (broker API)
-* ☁️ Cloud deployment (AWS / GCP)
-* 📱 Mobile responsive UI
+*  LSTM / Deep Learning model integration
+*  Live trading execution (broker API)
+*  Cloud deployment (AWS / GCP)
+*  Mobile responsive UI
 
-## 👨‍💻 Author
+##  Author
 
 Gaurang Joshi
 
